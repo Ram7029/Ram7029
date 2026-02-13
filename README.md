@@ -1,39 +1,92 @@
-Hi there, I'm Aritesh Maji! 👋
-I am a Computer Science student passionate about building scalable Backend architectures and Generative AI systems. I specialize in developing high-precision RAG platforms and optimizing enterprise workflows—once achieving an 80% reduction in data retrieval time using custom LLM solutions.
+<h1 align="center">Hi 👋, I'm Aritesh Maji</h1>
+<h3 align="center">AI & ML Undergraduate | Data & Software Enthusiast</h3>
 
-🛠️ Tech Stack & Skills
-Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
+<p align="center">
+  <a href="https://www.ariteshmaji.in" target="_blank">
+    <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aritesh-maji-56b68628a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-AI / ML & Data Science
-<p align="left">
-<img src="https://img.shields.io/badge/RAG-Expertise-blue?style=flat-square&logo=ai" />
-<img src="https://img.shields.io/badge/LangChain-Library-green?style=flat-square" />
-<img src="https://skillicons.dev/icons?i=huggingface,opencv,numpy,pandas" />
+---
+
+## 🚀 About Me
+
+I’m a passionate technology learner currently diving deep into the world of **Data, AI, and Software Engineering**.  
+My focus is on bridging the gap between **mathematical theory** and **real-world implementation**.
+
+- 🤖 Machine Learning — Building models & understanding core algorithms  
+- 📊 Applied Statistics — Mastering the math behind data analysis  
+- 🏗️ Data Engineering — Learning ETL pipelines and scalable data workflows  
+- 💡 Exploring real-world AI applications & product development
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css"/>
 </p>
 
-Backend & Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,firebase,supabase" />
-<img src="https://img.shields.io/badge/Milvus-VectorDB-cyan?style=flat-square" />
-<img src="https://img.shields.io/badge/REST_APIs-Microservices-orange?style=flat-square" />
+### 🤖 AI, Data & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
-Cloud & DevOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
+### ⚙️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap"/>
 </p>
 
-Core Fundamentals
-DSA (Data Structures & Algorithms)
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis,gcp"/>
+</p>
 
-System Design (Scalable Architectures)
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,notion"/>
+</p>
 
-OOP (Object Oriented Programming)
+---
 
-OS & Networking
+## 📊 GitHub Stats
 
-🚀 Performance Highlight
-Enterprise Efficiency: Engineered a custom LLM-based RAG solution that successfully slashed data retrieval latency by 80%, streamlining internal knowledge access.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariteshmaji&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariteshmaji&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning & Deep Learning  
+- Data Pipeline Architecture  
+- Backend API Design with FastAPI  
+- Deployment & Cloud Workflows
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.ariteshmaji.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aritesh-maji-56b68628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>Aritesh Maji</b> — Building with AI & Data
+</p>
