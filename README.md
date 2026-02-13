@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritesh Maji</h1>
-<h3 align="center">AI & ML Undergraduate | Data & Software Enthusiast</h3>
+<h3 align="center">AI & ML Undergraduate • Data & Software Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.ariteshmaji.in" target="_blank">
@@ -12,31 +12,30 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I’m a passionate technology learner currently diving deep into the world of **Data, AI, and Software Engineering**.  
-My focus is on bridging the gap between **mathematical theory** and **real-world implementation**.
+I’m a passionate technology learner diving deep into **Data, AI, and Software Engineering**, focused on building solutions that bridge **mathematical concepts** with **real-world applications**.
 
 - 🤖 Machine Learning — Building models & understanding core algorithms  
-- 📊 Applied Statistics — Mastering the math behind data analysis  
-- 🏗️ Data Engineering — Learning ETL pipelines and scalable data workflows  
-- 💡 Exploring real-world AI applications & product development
+- 📊 Applied Statistics — Data-driven thinking and analysis  
+- 🏗️ Data Engineering — ETL pipelines and scalable workflows  
+- ⚡ Creating practical AI-powered solutions
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack
 
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css"/>
 </p>
 
-### 🤖 AI, Data & ML
+### 🤖 AI • Data • ML
 <p>
   <img src="https://skillicons.dev/icons?i=opencv"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks
@@ -49,44 +48,35 @@ My focus is on bridging the gap between **mathematical theory** and **real-world
   <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis,gcp"/>
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠️ Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,vercel,notion"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariteshmaji&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariteshmaji&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
 - Advanced Machine Learning & Deep Learning  
+- Scalable Backend APIs (FastAPI / Django)  
 - Data Pipeline Architecture  
-- Backend API Design with FastAPI  
-- Deployment & Cloud Workflows
+- Cloud deployment & production-ready systems
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.ariteshmaji.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aritesh-maji-56b68628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Aritesh Maji</b> — Building with AI & Data
+  <i>Building intelligent systems with data, code, and curiosity.</i>
 </p>
