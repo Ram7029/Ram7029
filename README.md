@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there, I'm Aritesh Maji! 👋
+I am a Computer Science student passionate about building scalable Backend architectures and Generative AI systems. I specialize in developing high-precision RAG platforms and optimizing enterprise workflows—once achieving an 80% reduction in data retrieval time using custom LLM solutions.
 
-<!--
-**Ram7029/Ram7029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack & Skills
+Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
+</p>
 
-Here are some ideas to get you started:
+AI / ML & Data Science
+<p align="left">
+<img src="https://img.shields.io/badge/RAG-Expertise-blue?style=flat-square&logo=ai" />
+<img src="https://img.shields.io/badge/LangChain-Library-green?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=huggingface,opencv,numpy,pandas" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,firebase,supabase" />
+<img src="https://img.shields.io/badge/Milvus-VectorDB-cyan?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_APIs-Microservices-orange?style=flat-square" />
+</p>
+
+Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
+</p>
+
+Core Fundamentals
+DSA (Data Structures & Algorithms)
+
+System Design (Scalable Architectures)
+
+OOP (Object Oriented Programming)
+
+OS & Networking
+
+🚀 Performance Highlight
+Enterprise Efficiency: Engineered a custom LLM-based RAG solution that successfully slashed data retrieval latency by 80%, streamlining internal knowledge access.
